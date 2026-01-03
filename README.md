@@ -1,4 +1,4 @@
-# DMC-Digital-Modulation-and-Coding-
+# DMC-Digital-Modulation-and-Coding
 ## FLAT TOP SAMPLING
 
 The objective of this experiment is to study the process of Flat-Top Sampling ,
